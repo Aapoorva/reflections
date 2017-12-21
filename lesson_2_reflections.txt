@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git directory is created 
+we need to that because the directory stores meta data of repository history
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is actually a temporary area like we have a buffer. It allows us to commits in small portions that too logic commits.
